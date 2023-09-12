@@ -1,27 +1,37 @@
 body {
-  font-family: 'Abril Fatface', cursive;
   font-size: 48px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Aleo', serif;
   font-size: 14px;
   padding: 1em;
   font-weight: normal;
   color: #FFFFFF;
+  text-align: start;
+}
+
+
+main {
+  margin: auto; 
 }
 
 a:link {
   color: #AFE6E6;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  max-width: 65px;
+ul li::before {
+  content: "📌";
+  display: inline-block;
+  margin-right: 0.0rem;
+  list-style: none;
 }
 
-main {
-  margin: auto; 
-  vertical-align: middle
+
+h1, h2, h3 {
+  max-width: 65px;
+  font-family: 'Bevan', serif;
 }
 
 
 html {
   background-color:#588B8B; 
 }
+
