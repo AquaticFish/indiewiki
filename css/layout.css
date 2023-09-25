@@ -1,0 +1,22 @@
+body{
+  padding: 3em;
+    
+  color: #d2bb98;
+background-color:#933629
+}
+
+
+img {
+  width:100%;
+}
+
+.wormparttwo {
+  display: block;
+}
+
+.wormpartone {
+  float: right;
+  border-radius: 1rem;
+  width: 20ch;
+  
+}

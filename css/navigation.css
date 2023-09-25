@@ -1,0 +1,15 @@
+a:link {
+  color: #AFE6E6;
+  text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+ul li::before {
+  content: "📌";
+  display: inline-block;
+  margin-right: 0.0rem;
+  list-style: none;
+}

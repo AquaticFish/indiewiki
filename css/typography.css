@@ -1,0 +1,13 @@
+body {
+  font-size: 48px;
+  font-family: 'Aleo', serif;
+  font-size: 14px;
+
+  font-weight: normal;
+  text-align: start;
+}
+
+h1, h2, h3 {
+  max-width: 65px;
+  font-family: 'Bevan', serif;
+}
